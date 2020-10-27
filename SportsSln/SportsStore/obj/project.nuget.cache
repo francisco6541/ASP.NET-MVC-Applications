@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7pVSlKdhvPmmoSVfP18F2oozIMTj2w9Ure3vME+ZzD3qpqlT0djULSarphX9TOZ95hGfgiTh7bVkzN4U+idjnQ==",
+  "dgSpecHash": "Ehe/Z3SdvSxRH+YlwMnI/GZDcI1wC0jfQ58JxnptCpVqO9q13JrzeQXx/8J8Hz9JBRTzJPyg8AAATqBMx8TAbA==",
   "success": true,
-  "projectFilePath": "C:\\ASP.NET_ProjectFiles\\SportsSln\\SportsStore\\SportsStore.csproj",
+  "projectFilePath": "C:\\Users\\Francisco\\desktop\\ASP.NET-MVC-Applications\\SportsSln\\SportsStore\\SportsStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Francisco\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Francisco\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
