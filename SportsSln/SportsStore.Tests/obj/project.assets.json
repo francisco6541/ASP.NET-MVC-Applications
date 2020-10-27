@@ -8168,11 +8168,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ASP.NET_ProjectFiles\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Francisco\\desktop\\ASP.NET-MVC-Applications\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
       "projectName": "SportsStore.Tests",
-      "projectPath": "C:\\ASP.NET_ProjectFiles\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
+      "projectPath": "C:\\Users\\Francisco\\desktop\\ASP.NET-MVC-Applications\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
       "packagesPath": "C:\\Users\\Francisco\\.nuget\\packages\\",
-      "outputPath": "C:\\ASP.NET_ProjectFiles\\SportsSln\\SportsStore.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Francisco\\desktop\\ASP.NET-MVC-Applications\\SportsSln\\SportsStore.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -8192,8 +8192,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\ASP.NET_ProjectFiles\\SportsSln\\SportsStore\\SportsStore.csproj": {
-              "projectPath": "C:\\ASP.NET_ProjectFiles\\SportsSln\\SportsStore\\SportsStore.csproj"
+            "C:\\Users\\Francisco\\desktop\\ASP.NET-MVC-Applications\\SportsSln\\SportsStore\\SportsStore.csproj": {
+              "projectPath": "C:\\Users\\Francisco\\desktop\\ASP.NET-MVC-Applications\\SportsSln\\SportsStore\\SportsStore.csproj"
             }
           }
         }
@@ -8246,7 +8246,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

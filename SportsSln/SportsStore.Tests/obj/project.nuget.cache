@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4G+mdKMrdhrBS9GsqgSMvO6ROKlkOhtbrmJaX1E++TCzOYIJyxDZVMgjJH8w3VZOHJvDViTE+OTf5EcXGnO4jw==",
+  "dgSpecHash": "Bi/DfZzacGgbt5SlJMkZ2cmyT8T5qNRRkHNTidbD6YbvSjyUpf3X8V+P+OZ3cfqeDO38zhTYroispTntPfBESw==",
   "success": true,
-  "projectFilePath": "C:\\ASP.NET_ProjectFiles\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Francisco\\desktop\\ASP.NET-MVC-Applications\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Francisco\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Francisco\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
