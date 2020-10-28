@@ -4,15 +4,15 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # Don't track
-.vs/SportsSln/DesignTimeBuild/.dtbcache.v2
-.vs/SportsSln/v16/.suo
-.vs/SportsSln/v16/TestStore/0/002.testlog
-SportsStore.Tests/obj/Debug/netcoreapp3.1/SportsStore.Tests.csprojAssemblyReference.cache
-SportsStore.Tests/obj/SportsStore.Tests.csproj.nuget.dgspec.json
-SportsStore.Tests/obj/project.assets.json
-SportsStore.Tests/obj/project.nuget.cache
-SportsStore/obj/SportsStore.csproj.nuget.dgspec.json
-SportsStore/obj/project.nuget.cache
+.vs/SportsSln/DesignTimeBuild/.dtbcache.v2/
+.vs/SportsSln/v16/.suo/
+.vs/SportsSln/v16/TestStore/0/002.testlog/
+SportsStore.Tests/obj/Debug/netcoreapp3.1/SportsStore.Tests.csprojAssemblyReference.cache/
+SportsStore.Tests/obj/SportsStore.Tests.csproj.nuget.dgspec.json/
+SportsStore.Tests/obj/project.assets.json/
+SportsStore.Tests/obj/project.nuget.cache/
+SportsStore/obj/SportsStore.csproj.nuget.dgspec.json/
+SportsStore/obj/project.nuget.cache/
 
 # User-specific files
 *.rsuser
